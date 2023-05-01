@@ -1,2 +1,2 @@
 # NotificationAB
-The prototype for the curse Human in the Loop of M2 MoSIG program
+The prototype for the "Human in the Loop" course of M2 MoSIG program
